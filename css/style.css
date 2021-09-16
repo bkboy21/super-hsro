@@ -15,16 +15,18 @@ justify-content: center;
 margin: auto;
 position: relative;
 font-family: Tahoma, Geneva, sans-serif;
+display: inline;
 }
 
 
-p{
+/* p{
+    background-color: blueviolet;
     justify-content: center;
     margin: auto;
     position: relative;
     font-family: Tahoma, Geneva, sans-serif; 
    
-}
+} */
 
 
 
@@ -44,6 +46,7 @@ form [type=text] {
       width: 200px;
       height: 50px;
       font-size: 30px;
+      margin: 20px;
       
   }
 
@@ -54,13 +57,19 @@ form [type=text] {
   }
 
   p{
+    background-color: blueviolet;
     display: inline;
     font-family: Tahoma, Geneva, sans-serif;
-    font-size: 20px;
+    font-size: 30px;
+    
 
   }
 
 
   h2{
+    background-color: blueviolet;
     font-family: Tahoma, Geneva, sans-serif;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
   }
