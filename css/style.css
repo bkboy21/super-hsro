@@ -1,0 +1,27 @@
+
+
+body {
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    background-color: aqua;
+    background-image: url("https://i.imgur.com/JqJQ5pm.png");
+    
+}
+
+h1{
+background-color: blueviolet;
+justify-content: center;
+margin: auto;
+position: relative;
+font-family: Tahoma, Geneva, sans-serif;
+}
+
+
+p{
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    font-family: Tahoma, Geneva, sans-serif; 
+   
+}
