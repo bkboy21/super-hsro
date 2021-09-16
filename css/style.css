@@ -39,6 +39,12 @@ form [type=text] {
   }
 
 
+  form [type=value]{
+      text
+
+  }
+
+
   form [type=submit] {
       color: blueviolet;
       background-color: crimson;
@@ -57,19 +63,28 @@ form [type=text] {
   }
 
   p{
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     display: inline;
     font-family: Tahoma, Geneva, sans-serif;
     font-size: 30px;
+    align-items: center;
     
 
   }
 
 
   h2{
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     font-family: Tahoma, Geneva, sans-serif;
     display: inline-block;
     padding: 10px 10px 10px 10px;
     margin: auto;
+    align-items: center;
+  }
+
+
+  div{
+      background-color: blueviolet;
+      display: inline-block;
+      align-items: center;
   }
