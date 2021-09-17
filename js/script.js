@@ -31,11 +31,11 @@ function render() {
   $name.text(shData.results[0].name);
   $intelligence.text(shData.results[0].powerstats.intelligence);
   $strength.text(shData.results[0].powerstats.strength);
-  $imgh.attr('src', shData.results[1].image["url"]);
+  $imgh.attr('src', shData.results[0].image["url"]);
   
 
 
-  
+
   
   
   
